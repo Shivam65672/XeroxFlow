@@ -41,4 +41,4 @@ Target: Mr. Ramesh Mahato
 2.Lunch Time Starvation: The script strictly finds the lowest printing volume of the day to suggest a break. If the shop is continuously busy from 10:00 AM to 4:00 PM, the script will cruelly tell the shopkeeper to wait until after 4:00 PM to eat, failing to account for normal human eating schedules.
 
 ## Demonstration Video
-[Link to the 3-minute screen recording of the tool running goes here]
+https://docs.google.com/videos/d/12R06bHOrBIAAM_SbpsNNL7IHctEDchEXsA34z4T4he8/edit?usp=drive_link
