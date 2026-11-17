@@ -1,6 +1,9 @@
 Shop: NIT Xerox & Printing Center
+
 Location: Near Mega Mess, NIT Jamshedpur
+
 Shopkeeper: Mr. Ramesh Mahato
+
 Business: Photocopying, black-and-white printing, colour printing, scanning and spiral binding.
 
 Things the Shopkeeper Said-
