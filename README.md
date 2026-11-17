@@ -39,3 +39,6 @@ Target: Mr. Ramesh Mahato
 ## What It Gets Wrong
 1.Dynamic Academic Schedules: The tool assumes daily traffic follows the same pattern as the sample data. In reality, if a professor assigns a sudden 50-page lab manual due at 2:00 PM the next day, the 13:00 hour will instantly become a peak, breaking this prediction.
 2.Lunch Time Starvation: The script strictly finds the lowest printing volume of the day to suggest a break. If the shop is continuously busy from 10:00 AM to 4:00 PM, the script will cruelly tell the shopkeeper to wait until after 4:00 PM to eat, failing to account for normal human eating schedules.
+
+## Demonstration Video
+[Link to the 3-minute screen recording of the tool running goes here]
